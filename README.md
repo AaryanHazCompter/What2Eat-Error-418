@@ -1,4 +1,4 @@
-# What2Eat
+<a href = "https://bit.ly/what-2-eat"># What2Eat </a>
 
 Not sure what to eat? Let us help!
 
