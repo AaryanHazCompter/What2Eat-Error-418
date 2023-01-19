@@ -6,6 +6,14 @@ Not sure what to eat? Let us help!
 
 What2Eat is a web application made using Flask. It allows users to enter ingredients available to them and it shows Recipes best matching their query.
 
+## Technical Description
+
+* Python - The lanuage for our script and back-end algorithm. To test the algorithm, run what2eat-Terminal for a pure Pyhton script
+* Flask - Framework to connect back-end Python script with the front-end.
+* HTML/CSS/JS - Front-end webpages for the main page and the results page
+* API - Data derived from Edamam Recipes API. Keys protected by environment variables
+* Hosting - Website hosted on Zeet and Google Cloud Platform
+
 ## Getting Started
 
 We made your job easy! Just head up to https://www.bit.ly/what-2-eat and enjoy the experience
